@@ -28,9 +28,10 @@ def move(my_history, their_history, my_score, their_score):
     elif my_history[-1]=='c' and their_history[-1]=='b':
         return 'b' # Betray if they were severely punished last time,
     else:
-        return 'c' #### Romeo and Juliet By William Shakespeare
-#Verona, Italy—1590's, July
-""" ROMEO ..........................Son of MONTAGUE
+        return 'c' 
+""" Romeo and Juliet By William Shakespeare
+Verona, Italy—1590's, July
+ROMEO ..........................Son of MONTAGUE
 BENVOLIO.....................Montague cousin of ROMEO
 BALTHASAR .................Montague servant to ROMEO
 ABRAM ..........................Montague servant
